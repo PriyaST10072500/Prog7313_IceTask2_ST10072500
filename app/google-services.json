@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "986687725306",
+    "project_id": "login-registration-st10072500",
+    "storage_bucket": "login-registration-st10072500.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986687725306:android:1d971f949c01485490f343",
+        "android_client_info": {
+          "package_name": "vcmsa.projects.icetask2_login_registration_st10072500"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8MHOve_wW73tR5e-1_gdB1jiM79Ds_ro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

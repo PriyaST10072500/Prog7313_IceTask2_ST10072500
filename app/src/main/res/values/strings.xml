@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ice Task 2_Login_Registration_ST10072500</string>
+    <string name="Password">password</string>
+    <string name="Confirm_Password">confirm_password</string>
+    <string name="Register">Register</string>
+    <string name="Login">Login</string>
+    <string name="Email">email</string>
+</resources>
