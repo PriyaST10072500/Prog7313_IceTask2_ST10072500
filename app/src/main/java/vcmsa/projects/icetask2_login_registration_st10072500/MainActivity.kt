@@ -18,3 +18,9 @@ class MainActivity : AppCompatActivity() {
         }
     }
 }
+
+//References
+//Title: Login and Registration in Android using Firebase in Kotlin
+//Author: geeksforgeeks
+//Date: 2022
+//Availability: https://www.geeksforgeeks.org/login-and-registration-in-android-using-firebase-in-kotlin/
